@@ -29,3 +29,5 @@ php artisan serve
 test@admin.com
 testpassword
 ```
+
+Enjoy!!
